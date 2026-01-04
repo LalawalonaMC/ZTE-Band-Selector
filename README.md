@@ -23,6 +23,9 @@ Going to the Console tab should be done on the top of the side panel that appear
 
 Make sure to copy-paste the code "code.js" into the Console.
 
+## AFTER USING TOOL!
+Wait for 20 seconds, The band will change and the code will give you the current SINR, RSRP and RSRQ. Please make sure that the SINR is positive for the best experience and RSRP to be under -95 is recomended.
+
 # Optimized for Poland
 The locations in this code are especially tailored to fit the Polish telecom environment (Orange, T-Mobile, Play, Plus).
 
