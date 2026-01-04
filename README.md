@@ -2,7 +2,9 @@
 
 # Requirements
 ZTE Router (what do u expect??)
+
 A Brain
+
 This github page and the code.js copied to the clipboard
 
 # How to change the band:
