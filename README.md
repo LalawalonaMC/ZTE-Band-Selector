@@ -1,5 +1,10 @@
 ## ZTE LTE Band Locker & Diagnostic Tool
 
+# Requirements
+ZTE Router (what do u expect??)
+A Brain
+This github page and the code.js copied to the clipboard
+
 # How to change the band:
 Remember that i live in Poland so those bands are for me, Do your own research to find out your own bands.
 
