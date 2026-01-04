@@ -16,7 +16,7 @@ The locations in this code are especially tailored to fit the Polish telecom env
 
 Default Bands: It allows bands B1(2100MHz), B3(1800MHz), B7(2600MHz), and B20(800MHz) to be used.
 
-Stability over Speed: Lock onto Band 7 if you live in a busy city (like Sosnowiec) to avoid interference from neighboring towers.
+Stability over Speed: Lock onto Band 7 if you live in a busy city to avoid interference from neighboring towers.
 
 Global Users: If you are not in Poland, then research on your own about the local LTE frequencies before you lock a particular band.
 
