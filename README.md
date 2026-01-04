@@ -6,10 +6,15 @@ Remember that i live in Poland so those bands are for me, Do your own research t
 In the code.js change the line with CHANGE_ME to for example:
 
 0x1 = Band 1 (Faster than Band 20 or Band 8 but worse range.)
+
 0x4 = Band 3 (The "Workhouse" in poland, Often more capacity than B1.)
+
 0x40 = Band 7 (THE FASTEST, Range a little bad but worth it.)
+
 0x80 = Band 8 (Plus / TMobile Only, Low Speed but good for deep inside buildings.)
+
 0x80000 = Band 20 (Very low speed but the longest range of all.)
+
 0x2000000000 = Band 38 (Play / Plus Only, Specific high-capacity TDD band.)
 
 # How to use this Tool
